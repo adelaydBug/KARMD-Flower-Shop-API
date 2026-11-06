@@ -1,0 +1,6 @@
+@KarmdFlowerShopApi_HostAddress = http://localhost:5051
+
+GET {{KarmdFlowerShopApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
